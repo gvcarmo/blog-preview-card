@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Figtree;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+h4 {
+    background-color: hsl(47, 88%, 63%);
+    width: 90px;
+    text-align: center;
+    line-height: 25px;
+    margin-top: 10px;
+    
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 10px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    display: inline-block;  
+    color: hsl(0, 0%, 42%);
+}
+.container {
+    background-color: white;
+    width: 335px;
+    height: 370px;
+    margin: auto;  
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    padding: 15px; 
+    border-radius: 10px;
+    align-items: center;
+    border: 1px solid black;
+    text-shadow: 2px;
+    box-shadow: 5px 5px black;
+}
+
+.img-avatar {
+    width: 20px;
+}
+
+.nome-avatar {
+    color: hsl(0, 0%, 7%);
+    padding: 10px;  
+    transform: translateY(-20%)  
+}
+
+.data {
+    color: hsl(0, 0%, 7%);
+}
+
+
+/* # Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+
+## Colors
+
+- Yellow: hsl(47, 88%, 63%)
+
+- White: hsl(0, 0%, 100%)
+
+- Gray 500: hsl(0, 0%, 42%)
+- Gray 950: hsl(0, 0%, 7%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 16px
+
+### Font
+
+- Family: [Figtree](https://fonts.google.com/specimen/Figtree)
+- Weights: 500, 800
+
+> 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code. */
